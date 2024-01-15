@@ -161,19 +161,16 @@
 </table>
 </p>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwivedishubham545&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dwivedishubham545" /></a> </p>
 
-[![@dwivedishubham545's Holopin board](https://holopin.io/api/user/board?user=dwivedishubham545)](https://holopin.io/@dwivedishubham545)
 	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
+	
+<summary><h3> :open_file_folder: My Repositories </h3></summary>
+
 	
 <div>
   <p align="center">
@@ -209,6 +206,6 @@
   </a>
   </p>
 </div>
-</details>
+
 
 </br></br>
