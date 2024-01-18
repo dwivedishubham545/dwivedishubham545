@@ -174,6 +174,9 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/dwivedishubham545/Hostel-Management">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Hostel-Management&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/dwivedishubham545/Leetcode">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Leetcode&theme=tokyonight" alt="GitHub Stats" />
     	</a>
