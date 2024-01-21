@@ -169,19 +169,19 @@
 	
 
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My Few Repositories </h3></summary>
 
 	
 <div>
   <p align="center">
-	<a href="https://github.com/dwivedishubham545/Hostel-Management">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Hostel-Management&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 	<a href="https://github.com/dwivedishubham545/Leetcode">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Leetcode&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/dwivedishubham545/GeeksForGeeks">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=GeeksForGeeks&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/dwivedishubham545/Hostel-Management">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Hostel-Management&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/dwivedishubham545/e-commerce">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=e-commerce&theme=tokyonight" alt="GitHub Stats" />
@@ -191,22 +191,13 @@
     	</a>
     	<a href="https://github.com/dwivedishubham545/Portfolio">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Portfolio&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/dwivedishubham545/Covid">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Covid&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/dwivedishubham545/Weather-app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Weather-app&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/dwivedishubham545/Computer_Organisation-Gates-">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Computer_Organisation-Gates-&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-    <a href="https://github.com/dwivedishubham545/Computer-1-Computer-Organisation">
+	</a>
+    	<a href="https://github.com/dwivedishubham545/Computer-1-Computer-Organisation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Computer-1-Computer-Organisation&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-    <a href="https://github.com/dwivedishubham545/Computer-2-Computer-Organisation">
+ 	 </a>
+    	<a href="https://github.com/dwivedishubham545/Computer-2-Computer-Organisation">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dwivedishubham545&repo=Computer-2-Computer-Organisation&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
+  	</a>
   </p>
 </div>
 </details>
