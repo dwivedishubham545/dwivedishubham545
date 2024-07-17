@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a Pre Final Year Computer Science Student at [University Institute of Engineering and Technology , CSJMU , Kanpur](https://csjmu.ac.in/).
+- :school: I am a Final Year Computer Science Student at [University Institute of Engineering and Technology , CSJMU , Kanpur](https://csjmu.ac.in/).
 - :computer: I am a competitive programmer at `Codeforces`, `HackerRank`, `Leetcode`, `Codechef`, `GeeksforGeeks`.
 - :student: I’m currently learning `Web Development` and strenthening my `Programming Skills`.
 - :nerd_face: Always `learning new things`.
