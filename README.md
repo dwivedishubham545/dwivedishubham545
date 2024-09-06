@@ -17,8 +17,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `HackerRank`, `Leetcode`, `Codechef`, `GeeksforGeeks`.
 - :student: I’m currently learning `Web Development` and strenthening my `Programming Skills`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1c3cfOH9jOSD0kZfEH55S_VE0gCEYaGuZ/view?google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D81e065323f9a8516:TM%3D1705219987:C%3Dr:IP%3D2409:4089:ae03:c22f:b42c:3f78:c98c:ccc2-:S%3D4gmnwELIU-pT0zXPa3bRGbI%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DSun,+14-Jan-2024+11:13:07+GMT).
-- :boom: You can visit [My Portfolio](https://shubhamdwivedi.netlify.app/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1niWwjTDBVAtwdLoELYUHePG1Kx-Wzm8l/view?usp=drive_link).
+- :boom: You can visit [My Portfolio](https://shubhamdwivedi.vercel.app/).
 <br>
 
 
