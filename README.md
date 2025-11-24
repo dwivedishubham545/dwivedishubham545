@@ -13,11 +13,12 @@
 
 <br><br>
 
-- :school: I am a Final Year Computer Science Student at [University Institute of Engineering and Technology , CSJMU , Kanpur](https://csjmu.ac.in/).
+- :school: I have completed my B.Tech in Computer Science and Engineering from the [University Institute of Engineering and Technology, CSJMU, Kanpur.](https://csjmu.ac.in/).
 - :computer: I am a competitive programmer at `Codeforces`, `HackerRank`, `Leetcode`, `Codechef`, `GeeksforGeeks`.
 - :student: I’m currently learning `Web Development` and strenthening my `Programming Skills`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1niWwjTDBVAtwdLoELYUHePG1Kx-Wzm8l/view?usp=drive_link).
+- :nerd_face: I was awarded the Gold Medal for securing the highest academic performance in the CSE department..
+- :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1qq7J7G8plLiJpj1isXUPl2CIUyj-XYTM/view?usp=sharing).
 - :boom: You can visit [My Portfolio](https://shubhamdwivedi.vercel.app/).
 <br>
 
