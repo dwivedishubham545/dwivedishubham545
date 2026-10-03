@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Shubham Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Computer+Science+Student;Chhatrapati+Shahuji+Maharaj+University+Kanpur;Competitive+Programmer;Web+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=900&height=100&lines=+M.Tech+in+Artificial+Intelligence;+Maulana+Azad+National+Institute+of+Technology+Bhopal;+B.Tech+in+Computer+Science+and+Engineering;+Chhatrapati+Shahuji+Maharaj+University+Kanpur;Competitive+Programmer;Web+Developer;Machine+Learning">
+</a>
 </p>
 
 
@@ -13,6 +15,7 @@
 
 <br><br>
 
+- :school: I am currently pursuing my M.Tech in Artificial Intelligence from the [Maulana Azad National Institute of Technology, Bhopal](https://manit.ac.in/).
 - :school: I have completed my B.Tech in Computer Science and Engineering from the [University Institute of Engineering and Technology, CSJMU, Kanpur.](https://csjmu.ac.in/).
 - :computer: I am a competitive programmer at `Codeforces`, `HackerRank`, `Leetcode`, `Codechef`, `GeeksforGeeks`.
 - :student: I’m currently learning `Web Development` and strenthening my `Programming Skills`.
